@@ -28,4 +28,4 @@ Data Analysis: Includes metrics on product performance, customer trends, and geo
 ### Total Orders by Status
 Shows the breakdown of orders across different statuses, such as Delivered, Canceled, and Pending.
 
-![Total Orders by Status](dashboard.png)
+![Total Orders by Status](screenshorts/dashboard.png)
