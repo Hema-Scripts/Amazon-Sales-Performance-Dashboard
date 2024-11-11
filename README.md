@@ -18,6 +18,12 @@ Documentation: Information on data fields and any setup instructions.
 Screenshots: Visual previews of the dashboard for quick reference.
 
 
+### Total Orders by Status
+Shows the breakdown of orders across different statuses, such as Delivered, Canceled, and Pending.
+
+![Total Orders by Status](screenshots/dashboard.png)
+
+
 
 Tools & Technologies
 Power BI: For data modeling, visualization, and interactive dashboard design
@@ -25,7 +31,5 @@ DAX: To create custom measures and calculations for insights like total earnings
 Data Analysis: Includes metrics on product performance, customer trends, and geographic sales
 
 
-### Total Orders by Status
-Shows the breakdown of orders across different statuses, such as Delivered, Canceled, and Pending.
+![Sales Trends](screenshots/sales.png)
 
-![Total Orders by Status](screenshots/dashboard.png)
